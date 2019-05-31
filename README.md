@@ -1,7 +1,5 @@
 # Lisn2Me [Work-in-Progress]
 
-Working on this repository ---> https://github.com/ashah111/Lisn2Me
-
 
 ### An iOS App that lets you play the same song on multiple devices using Multipeer Connectivity
 
